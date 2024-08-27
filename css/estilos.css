@@ -1,0 +1,29 @@
+body {
+	background: pink;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Arial";
+	background: white;
+	color: FF1493;
+	text-align: center;
+	padding: 5px;
+	margin
+}
+
+h3 {
+	font-family: "Arial";
+	color: FF1493;
+	text-align: center;
+}
+noticia 1 {
+            margin: 20px;
+            padding: 15px;
+            border: 1px solid black;
+            background-color: lightgray;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            cursor: pointer;
+        }
